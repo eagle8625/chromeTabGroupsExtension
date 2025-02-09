@@ -1,0 +1,2 @@
+# chromeTabGroupsExtension
+Privacy Policies Disclaim
